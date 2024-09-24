@@ -5,6 +5,8 @@ body{
 .navbar {
     background-color: #81F7D8;
     font-family: "Black Ops One", sytem-ui;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .quem-somos{
